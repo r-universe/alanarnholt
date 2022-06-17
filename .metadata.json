@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BSDA",
+    "oncran": true
+  },
+  {
+    "package": "PASWR2",
+    "oncran": true
+  }
+]
