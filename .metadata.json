@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "PASWR",
+    "oncran": true
+  },
+  {
     "package": "PASWR2",
     "oncran": true
   }

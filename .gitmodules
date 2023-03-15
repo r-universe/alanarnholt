@@ -8,6 +8,11 @@
 	url = https://github.com/alanarnholt/bsda
 	shallow = true
 	registered = true
+[submodule "PASWR"]
+	path = PASWR
+	url = https://github.com/alanarnholt/paswr
+	shallow = true
+	registered = true
 [submodule "PASWR2"]
 	path = PASWR2
 	url = https://github.com/alanarnholt/paswr2
